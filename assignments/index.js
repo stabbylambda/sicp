@@ -44,7 +44,7 @@ fromNode(glob)("**/readme.html")
         $('table ~ *').remove();
         let result = $.html();
         let md = toMarkdown(result, {gfm: true});
-        md = md.replace('|  | filename | description |', '| filename | description |\n| ======== | =========== |').replace(/`/g,'');
+        md = md.replace('|  | filename | description |', '| filename | description |\n| --- | --- |').replace(/`/g,'');
         data.markdown = md;
         return data;
     })

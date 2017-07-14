@@ -11,7 +11,8 @@ Note: The construction of this assignment predates our final revison of the text
 ### Files for download:
 
 | filename | description |
-| ======== | =========== |
+| --- | --- |
 | [ps7oop.tex](ps7oop.tex) | TeX source for the assignment. |
 | [ps7oop.ps](ps7oop.ps) | Postscript file for printing the assignment |
-| [teval.scm](teval.scm) [mod.scm](mod.scm) | Scheme source code required for this assignment. |
+| [teval.scm](teval.scm)
+[mod.scm](mod.scm) | Scheme source code required for this assignment. |

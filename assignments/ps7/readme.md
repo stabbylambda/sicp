@@ -9,7 +9,9 @@ The code for this assignment relies on the parallel-execute facility (see the te
 ### Files for download:
 
 | filename | description |
-| ======== | =========== |
+| --- | --- |
 | [ps7.tex](ps7.tex) | TeX source for the assignment. |
 | [ps7.ps](ps7.ps) | Postscript file for printing the assignment |
-| [gauss.scm](gauss.scm) [parallel.scm](parallel.scm) [nikkei.scm](nikkei.scm) | Scheme source code required for this assignment. |
+| [gauss.scm](gauss.scm)
+[parallel.scm](parallel.scm)
+[nikkei.scm](nikkei.scm) | Scheme source code required for this assignment. |

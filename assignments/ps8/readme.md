@@ -7,7 +7,12 @@ This assignment covers the evaluators presented at the beginning of chapter 4: t
 ### Files for download:
 
 | filename | description |
-| ======== | =========== |
+| --- | --- |
 | [ps8.tex](ps8.tex) | TeX source for the assignment. |
 | [ps8.ps](ps8.ps) | Postscript file for printing the assignment |
-| [analyze.scm](analyze.scm) [evdata.scm](evdata.scm) [meval.scm](meval.scm) [syntax.scm](syntax.scm) [ps8defs.scm](ps8defs.scm) [ps8-ans.scm](ps8-ans.scm) | Scheme source code required for this assignment. |
+| [analyze.scm](analyze.scm)
+[evdata.scm](evdata.scm)
+[meval.scm](meval.scm)
+[syntax.scm](syntax.scm)
+[ps8defs.scm](ps8defs.scm)
+[ps8-ans.scm](ps8-ans.scm) | Scheme source code required for this assignment. |

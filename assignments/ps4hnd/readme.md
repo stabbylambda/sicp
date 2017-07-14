@@ -9,8 +9,11 @@ The code below includes an implementation of primitive painters for line-drawing
 ### Files for download:
 
 | filename | description |
-| ======== | =========== |
+| --- | --- |
 | [ps4hnd.tex](ps4hnd.tex) | TeX source for the assignment. |
-| [hend.scm](hend.scm) [hutils.scm](hutils.scm) [psgo.scm](psgo.scm) | Scheme source code required for this assignment. |
+| [hend.scm](hend.scm)
+[hutils.scm](hutils.scm)
+[psgo.scm](psgo.scm) | Scheme source code required for this assignment. |
 | [prmpnt.scm](prmpnt.scm) | Scheme source code implementing constructors for primitive painters (highly MIT Scheme specific). You should compile this file to obtain adequate performance. |
-| [einstein.pgm](einstein.pgm) [fovnder.pgm](fovnder.pgm) | Sample pgm files that can be used to create painters. |
+| [einstein.pgm](einstein.pgm)
+[fovnder.pgm](fovnder.pgm) | Sample pgm files that can be used to create painters. |
