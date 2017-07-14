@@ -22,19 +22,19 @@ The material in these problem sets may be duplicated, modified, and redistribute
 
 | Assignment | Relevant sections in textbook |
 | --- | --- |
-| [Introductory assignment](ps1/readme.html) | 1.1 |
-| [The game of twenty-one](ps2tw1/readme.html) | 1.3 |
-| [Graphing with higher-order procedures](ps2/readme.html) | 1.3 |
-| [Continued fractions](ps2cnt/readme.html) | 1.3 |
-| [RSA encryption](ps3/readme.html) | 1.2.6, 2.2.1 |
-| [Prisoner's dilemma](ps4prs/readme.html) | 1.3, 2.2.1 |
-| [Picture language](ps4hnd/readme.html) | 2.2.4 |
-| [Term-rewriting evaluator](ps4/readme.html) | 1.1, 2.3 |
-| [Automated freshman advisor](ps5adv/readme.html) | 2.3 |
-| [Generic Arithmetic](ps5/readme.html) | 2.4, 2.5 |
-| [Object-oriented adventure game](ps6/readme.html) | 3.1, 3.2, 3.3 |
-| [Concurrency](ps7/readme.html) | 3.4 |
-| [Streams and series](ps9/readme.html) | 3.5 |
-| [Evaluators](ps8/readme.html) | 4.1, 4.2 |
-| [Languages for object-oriented progamming](ps7oop/readme.html) | 4.1 |
-| [Register machines and compilation](ps10/readme.html) | 5.1, 5.2, 5.4, 5.5 |
+| [Introductory assignment](ps1/readme.md) | 1.1 |
+| [The game of twenty-one](ps2tw1/readme.md) | 1.3 |
+| [Graphing with higher-order procedures](ps2/readme.md) | 1.3 |
+| [Continued fractions](ps2cnt/readme.md) | 1.3 |
+| [RSA encryption](ps3/readme.md) | 1.2.6, 2.2.1 |
+| [Prisoner's dilemma](ps4prs/readme.md) | 1.3, 2.2.1 |
+| [Picture language](ps4hnd/readme.md) | 2.2.4 |
+| [Term-rewriting evaluator](ps4/readme.md) | 1.1, 2.3 |
+| [Automated freshman advisor](ps5adv/readme.md) | 2.3 |
+| [Generic Arithmetic](ps5/readme.md) | 2.4, 2.5 |
+| [Object-oriented adventure game](ps6/readme.md) | 3.1, 3.2, 3.3 |
+| [Concurrency](ps7/readme.md) | 3.4 |
+| [Streams and series](ps9/readme.md) | 3.5 |
+| [Evaluators](ps8/readme.md) | 4.1, 4.2 |
+| [Languages for object-oriented progamming](ps7oop/readme.md) | 4.1 |
+| [Register machines and compilation](ps10/readme.md) | 5.1, 5.2, 5.4, 5.5 |
