@@ -9,7 +9,7 @@ This assignment covers the three major programs introduced in chapter 5 -- regis
 | filename | description |
 | --- | --- |
 | [ps10.tex](ps10.tex) | TeX source for the assignment. |
-| [ps10.ps](ps10.ps) | Postscript file for printing the assignment |
+| [ps10.pdf](ps10.pdf) | PDF file of the assignemnt |
 | [assemble.scm](assemble.scm)
 [compdata.scm](compdata.scm)
 [compiler.scm](compiler.scm)

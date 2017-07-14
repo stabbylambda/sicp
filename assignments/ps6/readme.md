@@ -11,10 +11,10 @@ The actual assignment has students extend and modify an adventure-style game, wh
 | filename | description |
 | --- | --- |
 | [ps6game.tex](ps6game.tex)
-[exercise1.ps](exercise1.ps)
-[meta-advent.ps](meta-advent.ps) | TeX source for the assignment and postscript sources for figures. |
-| [ps6game.ps](ps6game.ps) | Postscript file for printing the assignment |
+[exercise1.pdf](exercise1.pdf)
+[meta-advent.pdf](meta-advent.pdf) | TeX source for the assignment and postscript sources for figures. |
+| [ps6game.pdf](ps6game.pdf) | PDF file of the assignemnt |
 | [notes.tex](notes.tex) | Tex source for supplementary notes on object-oriented programming. (Sources for the figures are missing -- sorry.) |
-| [notes.ps](notes.ps) | Postscript file for printing the notes. |
+| [notes.pdf](notes.pdf) | Postscript file for printing the notes. |
 | [game.scm](game.scm)
 [world.scm](world.scm) | Scheme source code required for this assignment. |

@@ -13,7 +13,7 @@ Disclaimer for all the cryptographers who are waiting to pounce on us: The syste
 | filename | description |
 | --- | --- |
 | [ps3rsa.tex](ps3rsa.tex)
-[diagrams.ps](diagrams.ps)
-[figure1.ps](figure1.ps) | TeX source for the assignment and postscript for the figures. |
+[diagrams.pdf](diagrams.pdf)
+[figure1.pdf](figure1.pdf) | TeX source for the assignment and postscript for the figures. |
 | [rsa.scm](rsa.scm) | Scheme source code required for this assignment. |
-| [ps3rsa.ps](ps3rsa.ps) | Postscript file for printing the assignment |
+| [ps3rsa.pdf](ps3rsa.pdf) | PDF file of the assignemnt |

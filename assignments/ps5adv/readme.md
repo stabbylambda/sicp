@@ -11,6 +11,6 @@ The pattern matcher here is quite sophisticated. It uses success and failure con
 | filename | description |
 | --- | --- |
 | [adv.tex](adv.tex) | TeX source for the assignment. |
-| [adv.ps](adv.ps) | Postscript file for printing the assignment |
+| [adv.pdf](adv.pdf) | PDF file of the assignemnt |
 | [adv.scm](adv.scm)
 [match.scm](match.scm) | Scheme source code required for this assignment. |

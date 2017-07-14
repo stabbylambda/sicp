@@ -14,4 +14,4 @@ This assignment can be a bit mindblowing, since it gives such a fast immersion i
 | [curves.scm](curves.scm)
 [drawing.scm](drawing.scm)
 [utils.scm](utils.scm) | Scheme source code required for this assignment. |
-| [ps2.ps](ps2.ps) | Postscript file for printing the assignment |
+| [ps2.pdf](ps2.pdf) | PDF file of the assignemnt |

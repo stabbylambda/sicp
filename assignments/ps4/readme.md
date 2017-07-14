@@ -13,9 +13,9 @@ We are grateful to Prof. Albert Meyer of MIT for developing this assignment and 
 | filename | description |
 | --- | --- |
 | [ps4.tex](ps4.tex) | TeX source for the assignment. |
-| [ps4.ps](ps4.ps) | Postscript file for printing the assignment |
+| [ps4.pdf](ps4.pdf) | PDF file of the assignemnt |
 | [trnotes.tex](trnotes.tex) | TeX source for the supplementary handout. |
-| [trnotes.ps](trnotes.ps) | Postscript file for printing the supplementary handout. |
+| [trnotes.pdf](trnotes.pdf) | Postscript file for printing the supplementary handout. |
 | [smeval.scm](smeval.scm)
 [smfresh.scm](smfresh.scm)
 [smscope.scm](smscope.scm)

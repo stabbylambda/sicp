@@ -10,4 +10,4 @@ This assignment presents a simple game-playing program, in which strategies are 
 | --- | --- |
 | [ps2tw1.tex](ps2tw1.tex) | TeX source for the assignment. |
 | [ps2tw1.scm](ps2tw1.scm) | Scheme source code required for this assignment. |
-| [ps2tw1.ps](ps2tw1.ps) | Postscript file for printing the assignment |
+| [ps2tw1.pdf](ps2tw1.pdf) | PDF file of the assignemnt |

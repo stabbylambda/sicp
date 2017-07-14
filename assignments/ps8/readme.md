@@ -9,7 +9,7 @@ This assignment covers the evaluators presented at the beginning of chapter 4: t
 | filename | description |
 | --- | --- |
 | [ps8.tex](ps8.tex) | TeX source for the assignment. |
-| [ps8.ps](ps8.ps) | Postscript file for printing the assignment |
+| [ps8.pdf](ps8.pdf) | PDF file of the assignemnt |
 | [analyze.scm](analyze.scm)
 [evdata.scm](evdata.scm)
 [meval.scm](meval.scm)

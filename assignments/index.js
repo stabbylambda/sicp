@@ -44,7 +44,13 @@ fromNode(glob)("**/readme.html")
         $('table ~ *').remove();
         let result = $.html();
         let md = toMarkdown(result, {gfm: true});
-        md = md.replace('|  | filename | description |', '| filename | description |\n| --- | --- |').replace(/`/g,'');
+        md = md
+            .replace('|  | filename | description |', '| filename | description |\n| --- | --- |')
+            .replace(/`/g,'')
+            .replace(/\.ps/g, '.pdf')
+            .replace(' Postscript file for printing the assignment ', ' PDF file of the assignemnt ')
+        ;
+
         data.markdown = md;
         return data;
     })
