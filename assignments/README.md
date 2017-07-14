@@ -21,7 +21,7 @@ The material in these problem sets may be duplicated, modified, and redistribute
 ### Available assignments
 
 | Assignment | Relevant sections in textbook |
-| ===========| ==================================== |
+| --- | --- |
 | [Introductory assignment](ps1/readme.html) | 1.1 |
 | [The game of twenty-one](ps2tw1/readme.html) | 1.3 |
 | [Graphing with higher-order procedures](ps2/readme.html) | 1.3 |
