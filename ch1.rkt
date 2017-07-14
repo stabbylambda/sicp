@@ -50,8 +50,20 @@ circumference
 
 (f 5)
 
+; 1.1.5
 
 
+(f 5)
 
+(sum-of-squares (+ 5 1) (* 5 2))
 
+(+ (square 5) (square 10))
+(+ (* 6 6) (* 10 10))
+(+ 36 100)
+136
 
+; 1.1.6
+(define (abs x)
+  (cond ((> x 0) x)
+        ((= x 0) 0)
+        ((< x 0) (- x))))
