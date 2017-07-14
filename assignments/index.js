@@ -40,15 +40,11 @@ fromNode(glob)("**/readme.html")
     .map(data => {
         let x = data.contents.replace("<blockquote>", "").replace("</blockquote>", "");
         let $ = cheerio.load(x);
-        $('table').next().remove().html();
-        $('table').next().remove().html();
-        $('table').next().remove().html();
-        $('table').next().remove().html();
-        $('table').next().remove().html();
-        $('table').next().remove().html();
-        $('table').next().remove().html();
+        $('table').prepend('<th><td>filename</td><td>description</td></th>');
+        $('table ~ *').remove();
         let result = $.html();
         let md = toMarkdown(result, {gfm: true});
+        md = md.replace('|  | filename | description |', '| filename | description |\n| ======== | =========== |').replace(/`/g,'');
         data.markdown = md;
         return data;
     })

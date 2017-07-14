@@ -6,13 +6,8 @@ This assignment covers the three major programs introduced in chapter 5 -- regis
 
 ### Files for download:
 
-| `[ps10.tex](ps10.tex)` | TeX source for the assignment. |
-| `[ps10.ps](ps10.ps)` | Postscript file for printing the assignment |
-| `[assemble.scm](assemble.scm)`
-`[compdata.scm](compdata.scm)`
-`[compiler.scm](compiler.scm)`
-`[eceval.scm](eceval.scm)`
-`[evdata.scm](evdata.scm)`
-`[naivecom.scm](naivecom.scm)`
-`[regsim.scm](regsim.scm)`
-`[syntax.scm](syntax.scm)` | Scheme source code required for this assignment. |
+| filename | description |
+| ======== | =========== |
+| [ps10.tex](ps10.tex) | TeX source for the assignment. |
+| [ps10.ps](ps10.ps) | Postscript file for printing the assignment |
+| [assemble.scm](assemble.scm) [compdata.scm](compdata.scm) [compiler.scm](compiler.scm) [eceval.scm](eceval.scm) [evdata.scm](evdata.scm) [naivecom.scm](naivecom.scm) [regsim.scm](regsim.scm) [syntax.scm](syntax.scm) | Scheme source code required for this assignment. |

@@ -6,5 +6,7 @@ The assignment describes the use of higher-order procedures to implement operati
 
 ### Files for download:
 
-| `[ps2cnt.tex](ps2cnt.tex)` | TeX source for the assignment. |
-| `[ps2cnt.ps](ps2cnt.ps)` | Postscript file for printing the assignment |
+| filename | description |
+| ======== | =========== |
+| [ps2cnt.tex](ps2cnt.tex) | TeX source for the assignment. |
+| [ps2cnt.ps](ps2cnt.ps) | Postscript file for printing the assignment |

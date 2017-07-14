@@ -10,6 +10,8 @@ In order to make much use of this assignment (beyond the simple evaluation exerc
 
 ### Files for download:
 
-| `[ps1_1.tex](ps1_1.tex)` | TeX source for the assignment |
-| `[ps1_1.scm](ps1_1.scm)` | Scheme source code required for this assignment |
-| `[ps1_1.ps](ps1_1.ps)` | Postscript file for printing the assignment |
+| filename | description |
+| ======== | =========== |
+| [ps1_1.tex](ps1_1.tex) | TeX source for the assignment |
+| [ps1_1.scm](ps1_1.scm) | Scheme source code required for this assignment |
+| [ps1_1.ps](ps1_1.ps) | Postscript file for printing the assignment |

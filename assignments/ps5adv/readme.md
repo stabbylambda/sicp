@@ -8,7 +8,8 @@ The pattern matcher here is quite sophisticated. It uses success and failure con
 
 ### Files for download:
 
-| `[adv.tex](adv.tex)` | TeX source for the assignment. |
-| `[adv.ps](adv.ps)` | Postscript file for printing the assignment |
-| `[adv.scm](adv.scm)`
-`[match.scm](match.scm)` | Scheme source code required for this assignment. |
+| filename | description |
+| ======== | =========== |
+| [adv.tex](adv.tex) | TeX source for the assignment. |
+| [adv.ps](adv.ps) | Postscript file for printing the assignment |
+| [adv.scm](adv.scm) [match.scm](match.scm) | Scheme source code required for this assignment. |

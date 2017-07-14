@@ -6,8 +6,8 @@ This assignment is based on sections 2.4 and 2.5 of the text, which discuss a ge
 
 ### Files for download:
 
-| `[ps5.tex](ps5.tex)` | TeX source for the assignment. |
-| `[ps5.ps](ps5.ps)` | Postscript file for printing the assignment |
-| `[ps5-code.scm](ps5-code.scm)`
-`[put-get.scm](put-get.scm)`
-`[types.scm](types.scm)` | Scheme source code required for this assignment. |
+| filename | description |
+| ======== | =========== |
+| [ps5.tex](ps5.tex) | TeX source for the assignment. |
+| [ps5.ps](ps5.ps) | Postscript file for printing the assignment |
+| [ps5-code.scm](ps5-code.scm) [put-get.scm](put-get.scm) [types.scm](types.scm) | Scheme source code required for this assignment. |

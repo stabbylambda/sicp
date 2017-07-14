@@ -8,6 +8,8 @@ We are grateful to Franklyn Turbak, Mike Eisenberg, and Mitch Resnick for develo
 
 ### Files for download:
 
-| `[ps4prs.tex](ps4prs.tex)` | TeX source for the assignment. |
-| `[ps4prs.scm](ps4prs.scm)` | Scheme source code required for this assignment. |
-| `[ps4prs.ps](ps4prs.ps)` | Postscript file for printing the assignment |
+| filename | description |
+| ======== | =========== |
+| [ps4prs.tex](ps4prs.tex) | TeX source for the assignment. |
+| [ps4prs.scm](ps4prs.scm) | Scheme source code required for this assignment. |
+| [ps4prs.ps](ps4prs.ps) | Postscript file for printing the assignment |
