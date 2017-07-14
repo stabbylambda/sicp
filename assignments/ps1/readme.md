@@ -13,14 +13,3 @@ In order to make much use of this assignment (beyond the simple evaluation exerc
 | `[ps1_1.tex](ps1_1.tex)` | TeX source for the assignment |
 | `[ps1_1.scm](ps1_1.scm)` | Scheme source code required for this assignment |
 | `[ps1_1.ps](ps1_1.ps)` | Postscript file for printing the assignment |
-
-<font size="-1">_Copyright © 1985-1996 Massachusetts Institute of Technology_.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book _Structure and Interpretation of Computer Programs_.</font>
-
-* * *
-
-[![](../back.gif) Return to sample assignment page](../../psets)
-
-[![](../back.gif) Return to SICP page](/sicp)
-
-_Last modified August 30, 1996_

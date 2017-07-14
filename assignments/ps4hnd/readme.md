@@ -15,14 +15,3 @@ The code below includes an implementation of primitive painters for line-drawing
 | `[prmpnt.scm](prmpnt.scm)` | Scheme source code implementing constructors for primitive painters (highly MIT Scheme specific). You should compile this file to obtain adequate performance. |
 | `[einstein.pgm](einstein.pgm)`
 `[fovnder.pgm](fovnder.pgm)` | Sample `pgm` files that can be used to create painters. |
-
-<font size="-1">_Copyright © 1985-1996 Massachusetts Institute of Technology_.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book _Structure and Interpretation of Computer Programs_.</font>
-
-* * *
-
-[![](../back.gif) Return to sample assignment page](../../psets)
-
-[![](../back.gif) Return to SICP page](/sicp)
-
-_Last modified September 1, 1996_

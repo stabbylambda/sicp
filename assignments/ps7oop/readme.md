@@ -14,14 +14,3 @@ Note: The construction of this assignment predates our final revison of the text
 | `[ps7oop.ps](ps7oop.ps)` | Postscript file for printing the assignment |
 | `[teval.scm](teval.scm)`
 `[mod.scm](mod.scm)` | Scheme source code required for this assignment. |
-
-<font size="-1">_Copyright © 1985-1996 Massachusetts Institute of Technology_.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book _Structure and Interpretation of Computer Programs_.</font>
-
-* * *
-
-[![](../back.gif) Return to sample assignment page](../../psets)
-
-[![](../back.gif) Return to SICP page](/sicp)
-
-_Last modified September 1, 1996_

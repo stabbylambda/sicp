@@ -3,6 +3,7 @@ var toMarkdown = require('to-markdown');
 var glob = require('glob');
 var most = require('most');
 var Stream = require('most').Stream;
+var cheerio = require('cheerio');
 
 const fromNode = f => function (...args) {
     return new Stream(new NodeCallback(f, this, args));
@@ -38,7 +39,16 @@ fromNode(glob)("**/readme.html")
     .flatMap(x => readFile$(x, 'utf8').map(contents => ({fileName: x, contents})))
     .map(data => {
         let x = data.contents.replace("<blockquote>", "").replace("</blockquote>", "");
-        let md = toMarkdown(x, {gfm: true});
+        let $ = cheerio.load(x);
+        $('table').next().remove().html();
+        $('table').next().remove().html();
+        $('table').next().remove().html();
+        $('table').next().remove().html();
+        $('table').next().remove().html();
+        $('table').next().remove().html();
+        $('table').next().remove().html();
+        let result = $.html();
+        let md = toMarkdown(result, {gfm: true});
         data.markdown = md;
         return data;
     })

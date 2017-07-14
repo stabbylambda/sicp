@@ -16,14 +16,3 @@ The actual assignment has students extend and modify an adventure-style game, wh
 | `[notes.ps](notes.ps)` | Postscript file for printing the notes. |
 | `[game.scm](game.scm)`
 `[world.scm](world.scm)` | Scheme source code required for this assignment. |
-
-<font size="-1">_Copyright © 1985-1996 Massachusetts Institute of Technology_.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book _Structure and Interpretation of Computer Programs_.</font>
-
-* * *
-
-[![](../back.gif) Return to sample assignment page](../../psets)
-
-[![](../back.gif) Return to SICP page](/sicp)
-
-_Last modified August 30, 1996_

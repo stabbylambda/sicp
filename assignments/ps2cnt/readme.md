@@ -8,14 +8,3 @@ The assignment describes the use of higher-order procedures to implement operati
 
 | `[ps2cnt.tex](ps2cnt.tex)` | TeX source for the assignment. |
 | `[ps2cnt.ps](ps2cnt.ps)` | Postscript file for printing the assignment |
-
-<font size="-1">_Copyright © 1985-1996 Massachusetts Institute of Technology_.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book _Structure and Interpretation of Computer Programs_.</font>
-
-* * *
-
-[![](../back.gif) Return to sample assignment page](../../psets)
-
-[![](../back.gif) Return to SICP page](/sicp)
-
-_Last modified September 1, 1996_

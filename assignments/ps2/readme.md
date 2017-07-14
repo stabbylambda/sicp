@@ -13,14 +13,3 @@ This assignment can be a bit mindblowing, since it gives such a fast immersion i
 `[drawing.scm](drawing.scm)`
 `[utils.scm](utils.scm)` | Scheme source code required for this assignment. |
 | `[ps2.ps](ps2.ps)` | Postscript file for printing the assignment |
-
-<font size="-1">_Copyright © 1985-1996 Massachusetts Institute of Technology_.
-The material in these problem sets may be duplicated, modified, and redistributed for any non-commercial use in conjunction with the book _Structure and Interpretation of Computer Programs_.</font>
-
-* * *
-
-[![](../back.gif) Return to sample assignment page](../../psets)
-
-[![](../back.gif) Return to SICP page](/sicp)
-
-_Last modified August 30, 1996_
