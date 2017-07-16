@@ -57,7 +57,7 @@ circumference
 
 (sum-of-squares (+ 5 1) (* 5 2))
 
-(+ (square 5) (square 10))
+(+ (square 6) (square 10))
 (+ (* 6 6) (* 10 10))
 (+ 36 100)
 136
